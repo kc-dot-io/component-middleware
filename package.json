@@ -1,6 +1,6 @@
 {
   "name": "component-middleware",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Middleware to build your components",
   "keywords": [],
   "author": "Matt Mueller <mattmuelle@gmail.com>",
