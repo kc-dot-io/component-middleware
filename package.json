@@ -1,0 +1,17 @@
+{
+  "name": "component-middleware",
+  "version": "0.0.1",
+  "description": "Middleware to build your components",
+  "keywords": [],
+  "author": "Matt Mueller <mattmuelle@gmail.com>",
+  "dependencies": {
+    "connect": "~2.4.3",
+    "component-builder": "0.0.x",
+    "mkdirp" : "*"
+  },
+  "devDependencies": {
+    "mocha": "*",
+    "should": "*"
+  },
+  "main": "index"
+}
