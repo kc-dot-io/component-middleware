@@ -5,8 +5,7 @@
   "keywords": [],
   "author": "Matt Mueller <mattmuelle@gmail.com>",
   "dependencies": {
-    "connect": "~2.4.3",
-    "component-builder": "0.0.x",
+    "component-builder": "*",
     "mkdirp" : "*"
   },
   "devDependencies": {
