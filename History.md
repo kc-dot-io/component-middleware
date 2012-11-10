@@ -1,5 +1,9 @@
+0.0.3 / 2012-11-10
+==================
 
-0.0.2 / 2012-08-16 
+* Updated to work with latest build
+
+0.0.2 / 2012-08-16
 ==================
 
 * made path more robust
